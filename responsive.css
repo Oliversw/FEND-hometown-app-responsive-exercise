@@ -57,6 +57,10 @@
     width: 100%;
     overflow-x: auto;
   }
+
+  .scores__location {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 550px) {
