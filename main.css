@@ -232,7 +232,7 @@ main {
   color: #fff;
   font-weight: 300;
   background-color: #78909C;
-}
+}zz
 
 .scores__table tr:nth-child(odd) td {
   background-color: #fff;
@@ -253,6 +253,14 @@ main {
 .scores__table td:nth-child(2),
 .scores__table td:nth-child(5) {
   text-align: center;
+}
+
+.first__team {
+  text-align: right;
+}
+
+.second__team {
+  text-align: left;
 }
 
 /*
